@@ -1,0 +1,1 @@
+{"name": "test_login[zainab841@gmail.com-zaini123.!]", "status": "skipped", "parameters": [{"name": "username", "value": "'zainab841@gmail.com'"}, {"name": "password", "value": "'zaini123.!'"}], "start": 1734890644907, "stop": 1734890644907, "uuid": "d37a5bf9-9f7a-4029-a453-f4aed6ff3fe4", "testCaseId": "00e62a943e2a9436778df912f06eb65d", "fullName": "task#test_login"}
